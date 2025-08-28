@@ -216,26 +216,7 @@ Vite          ███████████████░░░░░░   
 
 ---
 
-## 🎯 2024 Goals
 
-- [ ] 🚀 Launch [Major Project Name]
-- [ ] 📚 Master [Technology/Framework]
-- [ ] 🤝 Contribute to 10+ open source projects
-- [ ] 📝 Write [Number] technical blog posts
-- [ ] 🎤 Speak at [Number] tech conferences
-- [ ] 🏆 Achieve [Specific Goal/Certification]
-
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title 1](https://your-blog.com/post1)
-- [Blog Post Title 2](https://your-blog.com/post2)
-- [Blog Post Title 3](https://your-blog.com/post3)
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 💡 Fun Facts
 
