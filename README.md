@@ -3,8 +3,8 @@ Hi there! 👋 I'm [IRABA Arsene]
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=irarsenus&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/irarsenus?label=Followers&style=social" alt="followers" />
 </p>
 
 
@@ -37,51 +37,13 @@ Hi there! 👋 I'm [IRABA Arsene]
 
 ## 🎯 Current Focus
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 What I'm Working On
-- 🚀 Building [Project Name] - [Brief Description]
-- 📱 Mobile app development with React Native
-- 🤖 Exploring AI/ML with TensorFlow
-- 🌐 Contributing to open source projects
-
-</td>
-<td width="50%">
-
-### 📚 Learning Journey
-- ⚡ Advanced React patterns
-- 🐳 Docker & Kubernetes
-- ☁️ AWS Cloud Architecture
-- 🔒 Cybersecurity fundamentals
-
-</td>
-</tr>
-</table>
-
 ---
 
 
 
 </div>
 
----
 
-## 💼 Experience & Achievements
-
-### 🏢 Professional Experience
-- **[Job Title]** at **[Company]** *(Duration)*
-  - Key achievement or responsibility
-- **[Previous Role]** at **[Previous Company]** *(Duration)*
-  - Notable project or impact
-
-### 🎓 Education & Certifications
-- 🎓 **[Degree]** in **[Field]** - *[University/School]*
-- 📜 **[Certification Name]** - *[Issuing Organization]*
-- 🏆 **[Achievement/Award]** - *[Year]*
-
----
 
 ## 🤝 Connect with Me
 
@@ -143,38 +105,11 @@ Hi there! 👋 I'm [IRABA Arsene]
 
 
 
-## 💡 Fun Facts
 
-```javascript
-const developer = {
-  name: "Your Name",
-  location: "Your Location",
-  languages: ["JavaScript", "Python", "Java"],
-  frameworks: ["React", "Vue", "Node.js"],
-  databases: ["MongoDB", "PostgreSQL"],
-  currentlyLearning: "AI/ML",
-  openToWork: true,
-  coffeeConsumed: "∞",
-  favoriteIDE: "VS Code"
-};
-```
 
 ---
 
-## 🌟 Support My Work
 
-If you found my projects helpful, consider:
-
-<p align="center">
-  <a href="https://www.buymeacoffee.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/>
-  </a>
-  <a href="https://github.com/sponsors/irarsenus">
-    <img src="https://img.shields.io/badge/Sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" alt="GitHub Sponsors"/>
-  </a>
-</p>
-
----
 
 ## 📈 Contribution Activity
 
