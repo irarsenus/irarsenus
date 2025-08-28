@@ -114,5 +114,20 @@ Javascript, HTML, CSS...
 </div>
 
 
+# Hi there 👋, I'm Arsene
+
+## 🚀 Skills
+- Python ![Progress](https://img.shields.io/badge/-80%25-blue)
+- JavaScript ![Progress](https://img.shields.io/badge/-70%25-yellow)
+
+---
+
+## 📊 GitHub Analytics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=tokyonight)  
+
+
+
 
 
