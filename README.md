@@ -41,42 +41,7 @@ Javascript, HTML, CSS...
 
 ## Installation
 
-    
-## Roadmap
+ 
 
-- Additional browser support
-
-- Add more integrations
-
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Tech Stack
-
-**Client:** React, Redux, TailwindCSS
-
-**Server:** Node, Express
-
-
-## Usage/Examples
-
-```javascript
-import Component from 'my-project'
-
-function App() {
-  return <Component />
-}
-```
-
-
-## Lessons Learned
-
-What did you learn while building this project? What challenges did you face and how did you overcome them?
-
-
-# Hi, I'm Katherine! 👋
 
 
