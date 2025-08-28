@@ -28,10 +28,6 @@ Hi there! 👋 I'm [IRABA Arsene]
 
 ---
 
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=irarsenus&theme=tokyo-night" alt="Contribution Graph" />
-</div>
 
 ---
 
@@ -96,45 +92,6 @@ Hi there! 👋 I'm [IRABA Arsene]
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
-
----
-
-```
-
----
-
-
-
-
-
----
-
-
-
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/irarsenus/irarsenus/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-
-
-## 🎖️ Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irarsenus&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=1" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📅 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-
 
 
 
