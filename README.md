@@ -17,9 +17,7 @@ Hi there! 👋 I'm [IRABA Arsene]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irarsenus&layout=compact&theme=tokyonight"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irarsenus&theme=tokyonight" alt="GitHub Streak" />
-</div>
+
 
 ---
 
@@ -203,12 +201,5 @@ If you found my projects helpful, consider:
 
 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer"/>
-</div>
 
-<div align="center">
-  
-### 🤝 Thanks for visiting! Let's connect and build amazing things together! 
 
-</div>
