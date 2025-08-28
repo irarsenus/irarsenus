@@ -276,22 +276,7 @@ If you found my projects helpful, consider:
   <img src="https://raw.githubusercontent.com/irarsenus/irarsenus/output/snake.svg" alt="Snake animation" />
 </div>
 
----
 
-<div align="center">
-  <h3>🔥 Streak Stats</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=irarsenus&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
-<div align="center">
-  <h3>📊 GitHub Analytics</h3>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irarsenus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irarsenus&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
----
 
 ## 🎖️ Achievements
 
