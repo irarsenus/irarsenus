@@ -143,8 +143,8 @@ Vite          ███████████████░░░░░░   
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=PROJECT_REPO_NAME&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO_NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=ANOTHER_PROJECT&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/ANOTHER_PROJECT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=irarsenus&repo=PROJECT_REPO_NAME&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO_NAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=irarsenusE&repo=ANOTHER_PROJECT&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/ANOTHER_PROJECT)
 
 </div>
 
@@ -300,7 +300,7 @@ If you found my projects helpful, consider:
 
 <div align="center">
   <h3>📊 GitHub Analytics</h3>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irarsenusYOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irarsenus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irarsenus&layout=compact&theme=tokyonight&hide_border=true"/>
 </div>
 
