@@ -32,6 +32,18 @@ I'm a software developer based in Rwanda
 ## 🛠 Skills
 Javascript, HTML, CSS...
 
+## 📊 Progress Bars (Alternative Style)
+
+```html
+<strong>Python</strong>  
+<progress value="80" max="100"></progress> 80%  
+
+<strong>JavaScript</strong>  
+<progress value="70" max="100"></progress> 70%  
+
+<strong>React</strong>  
+<progress value="65" max="100"></progress> 65%  
+
 
 
 
