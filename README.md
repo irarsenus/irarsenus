@@ -19,28 +19,6 @@ Hi there! 👋 I'm [IRABA Arsene]
 
 
 
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=irarsenus&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
----
-
-
----
-
-## 🎯 Current Focus
-
----
-
-
-
-</div>
-
-
-
 ## 🤝 Connect with Me
 
 <p align="center">
