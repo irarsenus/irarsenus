@@ -143,8 +143,8 @@ Vite          ███████████████░░░░░░   
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=irarsenus&repo=PROJECT_REPO_NAME&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/PROJECT_REPO_NAME)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=irarsenusE&repo=ANOTHER_PROJECT&theme=tokyonight)](https://github.com/YOUR_GITHUB_USERNAME/ANOTHER_PROJECT)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=irarsenus&repo=PROJECT_REPO_NAME&theme=tokyonight)](https://github.com/irarsenus/PROJECT_REPO_NAME)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=irarsenusE&repo=ANOTHER_PROJECT&theme=tokyonight)](https://github.com/irarsenus/ANOTHER_PROJECT)
 
 </div>
 
