@@ -201,15 +201,7 @@ If you found my projects helpful, consider:
 
 ---
 
-<div align="center">
-  
-### 💫 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-</div>
-
----
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Footer"/>
