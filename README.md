@@ -1,4 +1,4 @@
-Hi there! 👋 I'm [IRABA Arsene]
+Hi there! 👋 I'm IRABA Arsene
 
 Passionate software developer with a strong foundation in modern web technologies and mobile development. I enjoy building clean, 
 efficient solutions that solve real-world problems. Always eager to learn new technologies and collaborate with talented teams to create impactful applications.
