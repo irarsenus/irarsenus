@@ -6,13 +6,13 @@ Hi there! 👋 I'm [IRABA Arsene]
   <img src="https://komarev.com/ghpvc/?username=irarsenus&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/irarsenus?label=Followers&style=social" alt="followers" />
 </p>
-## 📊 Statistics
+ 📊 Statistics
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=irarsenus&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irarsenus&layout=compact&theme=tokyonight"/>
 </div>
 
-## 🤝 Connect with Me
+ 🤝 Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
