@@ -60,6 +60,12 @@ efficient solutions that solve real-world problems. Always eager to learn new te
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+### Blockchain
+![Solidity](https://img.shields.io/badge/Solidity-232F3E?style=for-the-badge&logo=solidity&logoColor=white)
+![Truffle](https://img.shields.io/badge/Truffle-2496ED?style=for-the-badge&logo=truffle&logoColor=white)
+![Web3js](https://img.shields.io/badge/Web3js-F05032?style=for-the-badge&logo=web3js&logoColor=white)
+
+
 </div>
 
 
