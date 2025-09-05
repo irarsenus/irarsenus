@@ -63,7 +63,7 @@ efficient solutions that solve real-world problems. Always eager to learn new te
 ### Blockchain
 ![Solidity](https://img.shields.io/badge/Solidity-232F3E?style=for-the-badge&logo=solidity&logoColor=white)
 ![Ganache](https://img.shields.io/badge/Ganache-2496ED?style=for-the-badge&logo=Ganache&logoColor=white)
-![Web3js](https://img.shields.io/badge/Web3js-F05032?style=for-the-badge&logo=web3js&logoColor=white)
+![Web3js](https://img.shields.io/badge/Web3.js-F05032?style=for-the-badge&logo=web3js&logoColor=white)
 
 
 </div>
