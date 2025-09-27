@@ -44,7 +44,7 @@ efficient solutions that solve real-world problems. Always eager to learn new te
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Css3](https://img.shields.io/badge/Css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
